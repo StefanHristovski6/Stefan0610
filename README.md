@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stefan0610
-- 👀 I’m interested in Software Testing ( Manual )  
-- 🌱 I’m currently learning QA - just finished a course for manual testing
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning QA - just finished two courses for manual testing
 - 💞️ I’m looking to collaborate on different testing projects in order to boost my skills and get more knowledge
 
 
